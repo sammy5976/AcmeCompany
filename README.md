@@ -30,4 +30,4 @@ Three main rules were created;
 - Rule
 - OfferRule (extends Rule)
 - Basket
-The catalogue is represented by an array of product ojects.
+
